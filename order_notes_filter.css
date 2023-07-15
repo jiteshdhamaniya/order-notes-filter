@@ -1,0 +1,14 @@
+#filter-container {
+    display: flex;
+    margin: 1em 0;
+}
+
+#note_type_filter {
+    margin-right: 10px;
+}
+
+#note_text_filter {
+    flex-grow: 1;
+}
+
+
